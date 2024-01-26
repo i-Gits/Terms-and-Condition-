@@ -270,3 +270,15 @@ The GNU General Public License does not permit incorporating your program into p
 </details>
 
 </details>
+</details>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/24d026a2-aa0e-4e8a-90c0-f888855c98a0)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/885ffbe7-7f4c-4fc9-8fe0-6003659fdc60)
+
+<details><summary></summary>
+  
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/61df41c1-1cb3-4bfe-a3db-ac7cfb35a4cb)
+</details>
+
+
