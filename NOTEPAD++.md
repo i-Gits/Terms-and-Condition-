@@ -280,5 +280,6 @@ The GNU General Public License does not permit incorporating your program into p
   
 ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/61df41c1-1cb3-4bfe-a3db-ac7cfb35a4cb)
 </details>
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/775f9830-3712-462a-8386-4e48405cc6a0)
 
 
