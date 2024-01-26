@@ -270,8 +270,9 @@
    See the License for the specific language governing permissions and
    limitations under the License.
    </details>
+</details>
 
-   <details><summary>notes to self</summary>
+   <details><summary>自分のノート</summary>
    >issue
    > ![JDK for the Apache NetBeans IDE 20240126 17:48](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/677b6585-370b-4e37-9ecc-bd20ab6b0684)
 > resolved 
