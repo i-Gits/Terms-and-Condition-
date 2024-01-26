@@ -272,8 +272,18 @@
    </details>
 
    <details><summary>notes to self</summary>
-   
+   >issue
    > ![JDK for the Apache NetBeans IDE 20240126 17:48](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/677b6585-370b-4e37-9ecc-bd20ab6b0684)
->
+> resolved 
+
+     By installing other installation files specified in LA <!---learner's account---> and reinitiating installation process
+     
+   ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/717cd1e8-e29b-4956-b8a7-4f77109fa502)
+  ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/9ac227ab-8cfd-4e1b-86cf-5cb9c30c7b99)
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/cc1801bd-8aaa-42d0-810b-335d790563ab)
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/ac75bb86-1855-4155-9458-9e00cd5640da)
+
+Status: 終わり
+
 </details>
 </details>
