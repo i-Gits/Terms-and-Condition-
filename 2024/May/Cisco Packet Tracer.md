@@ -26,3 +26,22 @@ DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES A
 
 
 </details>
+<details><summary>
+  Launch
+</summary>
+
+ ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/1d76c24c-eec2-4de5-bcc2-3aad7d9564c7)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/8eb8235f-d98d-46f0-8145-ffafa99e1cb1)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/b2c81602-7c5f-4b22-9996-a44b3fda6a3f)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/7a074b7c-bf92-44c8-a1de-86ce40140d54)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/0ab507ad-118d-4ca9-90cc-46eede44929a)
+
+```You have successfully logged in to Cisco Packet Tracer. You may close this tab.```
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/40d5a33a-4a34-460f-a9d1-aa5ecf3244af)
+
+</details>
