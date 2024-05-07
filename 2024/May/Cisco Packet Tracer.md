@@ -26,8 +26,7 @@ DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES A
 
 
 </details>
-<details><summary>
-  Launch
+<details><summary> Launch
 </summary>
 
  ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/1d76c24c-eec2-4de5-bcc2-3aad7d9564c7)
@@ -45,3 +44,48 @@ DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES A
 ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/40d5a33a-4a34-460f-a9d1-aa5ecf3244af)
 
 </details>
+
+
+<details><summary> Familiarization
+ 
+</summary>
+Instructions: 
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/ad82574e-8cc5-43b9-9739-785a856ea292)
+<br>
+<br>
+<br>
+Result
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/7d02faf0-d913-42ac-8925-05ae63806a94)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/a13daf65-8f69-4c23-a1b0-0af01ab09282)
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/9384a564-0260-4419-bc2f-0e297af2a775)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/1f15aaea-8ddb-4757-907a-62d7a7c9271b)
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/624a910d-3a93-4be4-8330-833cee77faf4)
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/636e5c04-ff4a-40db-89a7-6b0c8948b609)
+
+Applying the same configuration to the other device:
+<br>
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/da0ef045-2f32-47be-85e7-c6bc70fa0ada)
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/3fe5b0c6-6614-4da9-8067-33eb87dca3b6)
+
+<br> is this how you check it? <br> just view the colors?
+<br>
+
+Command Prompt
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/7b893c4f-79bb-4387-ba6a-72b15c29d954)
+
+
+<details><summary>Ping Instructions </summary>
+<br> 
+ 
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/6c44f2e2-85be-4806-8b8b-907473bc7798)
+</details>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/a0bab78d-8cce-44d4-8b7e-2a803cd2cb5d)
+
+
+
