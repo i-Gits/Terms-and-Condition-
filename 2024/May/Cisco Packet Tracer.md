@@ -54,7 +54,6 @@ Instructions:
 ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/ad82574e-8cc5-43b9-9739-785a856ea292)
 <br>
 <br>
-<br>
 Result
 ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/7d02faf0-d913-42ac-8925-05ae63806a94)
 
@@ -87,5 +86,71 @@ Command Prompt
 
 ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/a0bab78d-8cce-44d4-8b7e-2a803cd2cb5d)
 
+<details><summary>PC0 -> PC1</summary>
+ 
+ ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/99e753f1-e55c-4ce9-9fbb-4f394465c4bf)
+
+</details>
+<details><summary>PC1 -> PC0 </summary>
+ 
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/44c3a053-abf1-4bde-8949-ba955ae204ab)
+
+</details>
+
+= did not receive a timeout request error ✅
 
 
+
+<details><summary>Configuring the Router</summary>
+
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/8e1555d0-35f6-4cdb-953d-295651e119bd)
+
+<details><summary>Exploring PC0's Terminal</summary>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/f3b1f370-2270-4ddf-a499-cf1e99bc4218)
+
+</details>
+
+<details><summary> Terminal's Hardware Initialization </summary>
+
+ ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/87cedc05-e9f4-46f3-9422-0956064f930f)
+
+</details>
+
+<details><summary> "enable" </summary>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/d6eb8269-97d7-488c-b3d8-55f050d008ab)
+
+</details>
+
+<details><summary> "do show ip interface brief" </summary></details>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/796f810c-a24d-4c62-9857-03bbaaf20bde)
+
+<br> <br>
+
+GigabitEthernet0/0/0 192.168.1.1 YES Manual up STATUS up PROTOCOL
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/52b3e12c-2fa6-49b5-9748-b265b17cc9d1)
+
+*exit*
+
+
+</details>
+
+<details><summary> Check the connectivity of the **router** : ```COMMAND PROMPT | PC0 | ping 192.168.1.1``` </summary></summary>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/682482db-9584-4a4b-8237-ec5bcf5c90e3)
+
+</details>
+
+<details><summary> Check the connectivity of the **router** : ```COMMAND PROMPT | PC1 | ping 192.168.1.2``` </summary></summary>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/23a2c4ac-241d-4008-a775-6eb1c8e3affb)
+
+</details>
+
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/5d1c1855-113a-4797-88d5-e401ed986d6a)
+
+</details>
