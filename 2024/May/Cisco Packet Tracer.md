@@ -152,5 +152,6 @@ GigabitEthernet0/0/0 192.168.1.1 YES Manual up STATUS up PROTOCOL
 </details>
 
 ![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/5d1c1855-113a-4797-88d5-e401ed986d6a)
+![image](https://github.com/i-Gits/Terms-and-Condition-/assets/157287055/e45db1ec-612e-4daf-8444-902b75cd36b4)
 
 </details>
